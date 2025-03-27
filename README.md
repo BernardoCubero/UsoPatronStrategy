@@ -96,6 +96,8 @@ public void atacar() {
 
 Aplicar el patrón *Strategy* en un juego como *Wizzard of Legends* facilita una mayor flexibilidad, escalabilidad y claridad en el código. Gracias a este patrón, el jugador puede seleccionar su ataque de manera dinámica sin que la lógica del personaje se vea afectada por el tipo de ataque elegido. A diferencia de una implementación sin *Strategy*, donde el código se vuelve complejo y difícil de modificar, este patrón proporciona una solución más ordenada, flexible y fácil de mantener.
 
+## *Autores*
+
 - **Bernardo Cubero**
 - **Antonio Cortes**
 - **María Luisa**

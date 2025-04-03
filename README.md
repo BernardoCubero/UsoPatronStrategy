@@ -1,9 +1,6 @@
-<div>
-
-    <img  src="https://refactoring.guru/images/patterns/content/strategy/strategy.png" alt="Imagen Stratey">
-    
+<div aling="center">
+    <img src="https://refactoring.guru/images/patterns/content/strategy/strategy.png" alt="Imagen Stratey" width="300"/> 
 </div>
-
 
 
 # *Patrones de Diseño*

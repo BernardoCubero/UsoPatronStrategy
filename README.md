@@ -1,5 +1,5 @@
 <div aling="center">
-    <img src="https://refactoring.guru/images/patterns/content/strategy/strategy.png" alt="Imagen Stratey" width="300"/> 
+    <img src="https://refactoring.guru/images/patterns/content/strategy/strategy.png" alt="Imagen Strategy" width="300"/> 
 </div>
 
 

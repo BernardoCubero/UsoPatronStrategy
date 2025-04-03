@@ -1,6 +1,6 @@
 <div>
 
-    <inmg  src="https://refactoring.guru/images/patterns/content/strategy/strategy.png" alt="Imagen Stratey">
+    <inmg  src="https://refactoring.guru/images/patterns/content/strategy/strategy.png" alt="Imagen Stratey"/>
     
 </div>
 

@@ -1,7 +1,7 @@
-<div aling="center">
-    <img src="https://refactoring.guru/images/patterns/content/strategy/strategy.png" alt="Imagen Strategy" width="300"/> 
-</div>
 
+<section>
+    <img src="https://refactoring.guru/images/patterns/content/strategy/strategy.png" alt="Imagen Strategy" width="300"/> 
+</section> 
 
 # *Patrones de Diseño*
 
